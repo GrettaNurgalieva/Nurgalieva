@@ -15,6 +15,7 @@ public class NewServlet extends HttpServlet {
 
         PrintWriter out = resp.getWriter();
         out.print("<h1>Hello Gretta</h1>");
+        out.print("<h1>Hello Gretta</h1>");
 
     }
 
